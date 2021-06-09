@@ -1,6 +1,6 @@
 # PLPv1b
 <img src="https://plplanguage.ir/resource/PLP-language.png"><br>
-PLP Projectly Programming Language<p>
+PLP Project Programming Language<p>
  Programming for projects and computer science and research on computer and programming.<br>
 
 # What is PLP language?
