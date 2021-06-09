@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <Windows.h>
+using namespace std;
+/*Language definitions*/
+typedef char $;
+
+typedef string text;
+typedef stringstream textstream;
+typedef string TEXT;
+typedef wstring wtext;
+typedef wstring WTEXT;
+typedef int in;
+typedef float dec4;
+typedef float DEC4;
+typedef double DEC8;
+typedef double dec8;
+typedef void out;
+typedef ofstream writefs;
+typedef ifstream opens;
+typedef LPSTR LPTEXT;
+typedef UINT UIN;
+typedef UCHAR U$;
+typedef long int LIN;
+typedef unsigned long ULNUM;
+typedef unsigned Un;
+typedef long LNUM;
+typedef long lnum;
