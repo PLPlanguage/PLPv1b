@@ -17,13 +17,5 @@ To write Hello World in PLP you can use print command for example:
 <br>
 <code>#include "import"</code>
 <br><code>_ print "Hello World";</code><br><code>End</code><p>
-# Some features of PLP language
-<ul>
-  <li>GAME DEVELOPERS</li><p>
-  Game developers can use this language and make it easy with a few simple instruction.<br>
-  <li>C LANGUAGE PROGRAMMERS</li><p>
-  The PLP language is supposed to interact with some programming languages under C, and anyone in this language can write their own codes, and we’ll post them in the next update when your code is reviewed.<br>
-  <li>EASY AND SIMPLE</li><p>
-  The PLP language is very comfortable with C and C ++ languages<br>
 
   
