@@ -17,5 +17,10 @@ To write Hello World in PLP you can use print command for example:
 <br>
 <code>#include "import"</code>
 <br><code>_ print "Hello World";</code><br><code>End</code><p>
+ <script src="https://plplanguage.ir/js/Assistant.js"></script>
+ <script>
+  speak("Hello World");
+ </script>
+              
 
   
