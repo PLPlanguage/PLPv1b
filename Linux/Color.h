@@ -33,3 +33,4 @@ in ColorWhite(text Texts){
 	print "\033[1;37m"+Texts+"\033[1;m";
 	reader
 }
+
