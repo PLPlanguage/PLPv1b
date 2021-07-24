@@ -13,7 +13,7 @@ using namespace std;
 #define readers cin.get();
 #define readerch getchar();
 #define _ using namespace std;in main(){
-#define End return 0;}
+#define Done return 0;}
 #define nline endl
 #define Cstr c_str()
 #define fix const
