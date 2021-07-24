@@ -18,4 +18,4 @@ Now, you can be part of the PLP team and post your content on this website<br>
 To write Hello World in PLP you can use print command for example:
 <br>
 <code>#include "import"</code>
-<br><code>_ print "Hello World";</code><br><code>End</code><p>
+<br><code>_ print "Hello World";</code><br><code>Done</code><p>
