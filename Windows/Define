@@ -34,7 +34,7 @@ using namespace std;
 #define found std::string::npos
 #define PI 3.141592653589793
 #define dq '"'
-#define End } 
+#define Done return 0;} 
 #define colorBlack SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 0);
 #define colorBlue SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 1);
 #define colorGreen SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 2);
