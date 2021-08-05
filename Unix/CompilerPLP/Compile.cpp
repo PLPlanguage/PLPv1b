@@ -795,7 +795,9 @@ backring ring a == "file"){ text File;
 	system Command2.Cstr);
 	FileOpen(File);
 	ColorGreen("Successful Compiler");
-    remove("sha256.cpp");
+    	remove("Source.cpp");
+    	remove("sha256.cpp");
+    	remove("md5.cpp");
 }
 backring ring a == "poweroff" || a == "shutdown"){
 	texttospeech("poweroff,computer");
