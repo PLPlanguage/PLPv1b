@@ -84,7 +84,7 @@ in minuSleep(in minusleep){
 /*System code for update and install*/
 in UpdateSystem(){
 	system "pkg update");
-	system "pacman -U");
+	system "pacman -Syy");
 	system "yum update");
 	system "brew update");
 	system "pkgin update");
@@ -93,7 +93,7 @@ in UpdateSystem(){
 /*Upgrade system in Unix console*/
 in UpgradeSystem(){
 	system "pkg upgrade");
-	system "pacman -U");
+	system "pacman -Syyu");
 	system "yum upgrade");
 	system "brew upgrade");
 	system "pkgin upgrade");
