@@ -3,14 +3,13 @@
 #include <fstream>
 #include <string>
 space
-
 /*Code for developer web*/
 out testHTML(text Code){
 	ofstream myfile;
 	myfile.open ("out.html");
 	myfile << Code;
 	myfile.close();
-	system "firefox out.html");
+	system "xdg-open out.html");
 }
 
 out TestHTML(text Code){
