@@ -31,6 +31,7 @@ out ASCII(){
 		}
 	}
 }
+
 out Animation(){
 	system "sl");
 }
