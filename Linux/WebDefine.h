@@ -17,7 +17,7 @@ out TestHTML(text Code){
 	myfile.open ("out.html");
 	myfile << Code;
 	myfile.close();
-	system "firefox out.html");
+	system "xdg-open out.html");
 }
 out SourceWeb(text AddWebsite,text AddressFile){
 	text Command;
@@ -30,24 +30,24 @@ out SourceWeb(text AddWebsite,text AddressFile){
 /*Search in web*/
 out SearchWeb(text whattheSearch){
 	text Command;
-	Command += "firefox https://www.google.com/search?q="+whattheSearch;
+	Command += "xdg-open https://www.google.com/search?q="+whattheSearch;
 	system Command.Cstr);
 }
 out searchweb(text whattheSearch){
 	text Command;
-	Command += "firefox https://www.google.com/search?q="+whattheSearch;
+	Command += "xdg-open https://www.google.com/search?q="+whattheSearch;
 	system Command.Cstr);
 }
 
 /*open Website*/
 out OpenURL(text URL){
 	text Command;
-	Command += "firefox "+URL;
+	Command += "xdg-open "+URL;
 	system Command.Cstr);
 }
 out openURL(text URL){
 	text Command;
-	Command += "firefox "+URL;
+	Command += "xdg-open "+URL;
 	system Command.Cstr);
 }
 /*Test speed internet*/
