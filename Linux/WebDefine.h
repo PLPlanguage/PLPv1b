@@ -9,7 +9,7 @@ out testHTML(text Code){
 	myfile.open ("out.html");
 	myfile << Code;
 	myfile.close();
-	system "firefox out.html");
+	system "xdg-open out.html");
 }
 
 out TestHTML(text Code){
