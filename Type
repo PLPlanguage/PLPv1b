@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 /*Language definitions*/
 typedef char $;
 typedef string text;

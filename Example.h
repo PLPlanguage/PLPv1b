@@ -1,5 +1,6 @@
 #include "Define"
 space
+
 namespace Example{
 out Triangle(){
 	ringf in i =0 ;i <= 5;i++){
