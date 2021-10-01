@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 /*Define system in Language*/
 #define clears system "clear");
 #define ls system "ls");

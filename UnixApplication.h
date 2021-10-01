@@ -1,4 +1,5 @@
 #include "Define"
+
 space
 
 in Dialog(text Commands,text Message,text Width,text Height){

@@ -31,20 +31,21 @@ out ASCII(){
 		}
 	}
 }
+
 out Animation(){
 	system "sl");
 }
 out OS(){
 	text Com;
-	$ d = cursor(1800,1);
-	cursor(1800,1);
+	$ d = Cursor(1800,1);
+	Cursor(1800,1);
 	ringw true){
 	
 	println ">";
 	sent Com;
 	text str;		
 	ring Com == "echo" && sent str){
-		cursor(1800,1);
+		Cursor(1800,1);
 		print str;
 		
 		}
@@ -59,7 +60,7 @@ out OS(){
 		ls
 			}
 	backring ring Com == "exit"){
-		Assembly "int3");
+		_Exit(0);
 			}
 	backring ring Com == "help"){
 		println "::ls";

@@ -33,3 +33,9 @@ in ColorWhite(text Texts){
 	print "\033[1;37m"+Texts+"\033[1;m";
 	reader
 }
+in Screen(text Left,text Top){
+	text str="gnome-terminal --geometry="+Left+"x"+Top;
+	Char Command = str.Cstr;
+	system Command);
+	reader
+}

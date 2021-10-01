@@ -1,10 +1,8 @@
 #include <iostream>
-#include <string>
-#include <thread>
-#include "Type"
-#include "System"
+#include <fstream>
+
 using namespace std;
-/*Variable for Import the File*/
+
 #define space using namespace std;
 #define print cout << 
 #define PRINT cout << 

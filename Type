@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include "Define"
+
 using namespace std;
 def int in;
 def double dec8;
