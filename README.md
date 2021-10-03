@@ -1,5 +1,5 @@
 # PLPv1b
-<img src="https://plplanguage.ir/resource/PLP-language.png"><br>
+<img src="https://plplanguage.ir/resource/PLP-language.png"><br/>
 PLP Project Programming Language<br/>
 Programming Language for projects and computer science and research on computer and programming.
 
@@ -17,5 +17,8 @@ Now, you can be part of the PLP team and post your content on this website<br>
 # How does the PLP language in beta work?
 To write Hello World in PLP you can use print command for example:
 <br>
-<code>#include "import"</code>
-<br><code>_ print "Hello World";</code><br><code>Done</code><p>
+```
+  #include "import"  
+  _ print "Hello World";  
+  Done
+```
