@@ -1,5 +1,5 @@
 # PLPv1b
-<img src="https://plplanguage.ir/resource/PLP-language.png"><br/>
+<img src="PLP logo.png"><br/>
 PLP Project Programming Language<br/>
 Programming Language for projects and computer science and research on computer and programming.
 
